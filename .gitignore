@@ -263,3 +263,4 @@ paket-files/
 #Others
 .DS_Store
 .vscode/
+/Ecommerce/.vs/Ecommerce/v17/.suo
